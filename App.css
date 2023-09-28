@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.listC{
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  background: rgb(188, 140, 140);
+  width: 20%;
+}
+
+.listC li{
+  width: 20%;
+}
+
+.container{
+  display: flex;
+  /* justify-content: center; */
+  flex-direction: column;
+  align-items: center;
+  /* width: 50%; */
+}
+.container input{
+  width: 20%;
+}
